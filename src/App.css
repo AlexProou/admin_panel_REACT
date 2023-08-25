@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #1d2634;
+  background-color: #1d3334;
   color: #9e9ea4;
   font-family: 'Montserrat', sans-serif;
 }
@@ -58,7 +58,7 @@ body {
 #sidebar {
   grid-area: sidebar;
   height: 100%;
-  background-color: #263043;
+  background-color: #263f43;
   overflow-y: auto;
   transition: all 0.5s;
   -webkit-transition: all 0.5s;
@@ -137,19 +137,19 @@ body {
 }
 
 .card:first-child {
-  background-color: #2962ff;
+  background-color: #399797;
 }
 
 .card:nth-child(2) {
-  background-color: #ff6d00;
+  background-color: #00e1ff;
 }
 
 .card:nth-child(3) {
-  background-color: #2e7d32;
+  background-color: #116764;
 }
 
 .card:nth-child(4) {
-  background-color: #d50000;
+  background-color: #147b79;
 }
 
 .card-inner {
